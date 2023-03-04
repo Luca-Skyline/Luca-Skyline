@@ -3,11 +3,10 @@
 - 🔭 I’m currently working on projects for TSA State and Nationals and MESA competitions.
 - 🌱 I’m currently learning C++ and Python.
 - 👯 I’m looking to collaborate on nothing right now. (I'm too busy collaborating on other stuff right now).
-<!-- 🤔 I’m looking for help with -->
-- 💬 Ask me about my favorite jazz music or competitions I'm competiting in
+- 💬 Ask me about my favorite jazz music or competitions I'm competing in
 - 📫 How to reach me: lucadalcanto7@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Sometimes I wonder if there can ever be a proven physics Theory of Everything.
+- ⚡ Fun fact: I love creative writing. 
 
 <!--
 **Luca-Skyline/Luca-Skyline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
