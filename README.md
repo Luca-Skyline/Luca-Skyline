@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi, I'm Luca. And in case you're wondering how I'm doing, it's tired. And so ready to be done with this dang month.
 
-- 🔭 I’m currently working on projects for TSA State and Nationals and MESA competitions.
-- 🌱 I’m currently learning C++ and Python.
-- 👯 I’m looking to collaborate on nothing right now. (I'm too busy collaborating on other stuff right now).
-- 💬 Ask me about my favorite jazz music or competitions I'm competing in
-- 📫 How to reach me: lucadalcanto7@gmail.com
+- 🔭 I’m currently working on random little stuff for class. I'm tired from TSA state and not doing much programming or collaborating right now.
+- 🌱 I’m currently learning C++ mostly.
+- 👯 I’m looking to collaborate on nothing right now, but would love to help out if I can.
+- 💬 Ask me about my favorite jazz music. Or don't. Talking to me might prove awkward.
+- 📫 How to reach me: lucadalcanto7@gmail.com or on discord (Luca D #4940)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love creative writing. 
+- ⚡ Why is it so hard to find real facts other than the fun ones? Truth is like a needle in a needlestack of misinformation and lies.
 
 <!--
 **Luca-Skyline/Luca-Skyline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
