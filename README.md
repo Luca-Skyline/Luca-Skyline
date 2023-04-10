@@ -1,12 +1,14 @@
-### Hi, I'm Luca. And in case you're wondering how I'm doing, it's tired. And so ready to be done with this dang month.
+### Hi, I'm Luca.
 
-- 🔭 I’m currently working on random little stuff for class. I'm tired from TSA state and not doing much programming or collaborating right now.
-- 🌱 I’m currently learning C++ mostly.
+And in case you're wondering how I'm doing, it's pretty good, I guess.
+
+- 🔭 I’m currently working on NEDC stuff - getting ready for state.
+- 🌱 I’m currently learning C++ mostly, also Arduino.
 - 👯 I’m looking to collaborate on nothing right now, but would love to help out if I can.
 - 💬 Ask me about my favorite jazz music. Or don't. Talking to me might prove awkward.
 - 📫 How to reach me: lucadalcanto7@gmail.com or on discord (Luca D #4940)
 - 😄 Pronouns: he/him
-- ⚡ Why is it so hard to find real facts other than the fun ones? Truth is like a needle in a needlestack of misinformation and lies.
+- ⚡ Over the years music has turned from an easy class into a small side hobby into an obsession. I'm currently learning clarinet, soprano sax, and harmonica on top of my existing tenor sax and piano. Want to listen to something I wrote? (Click Here) [https://musescore.com/user/40316551/scores/10186204]
 
 <!--
 **Luca-Skyline/Luca-Skyline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
