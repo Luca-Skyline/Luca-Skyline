@@ -1,14 +1,14 @@
 ### Hi, I'm Luca.
 
-And in case you're wondering how I'm doing, it's pretty good, I guess.
+"Pessismists are always happy regardless of the outcome. Optimists make their dreams come true. What's better, having a positive view or negative view?" - Luca DalCanto
 
-- 🔭 I’m currently working on NEDC stuff - getting ready for state.
-- 🌱 I’m currently learning C++ mostly, also Arduino.
+- 🔭 I’m currently working on random personal projects for fun.
+- 🌱 I’m currently learning python mostly.
 - 👯 I’m looking to collaborate on nothing right now, but would love to help out if I can.
 - 💬 Ask me about my favorite jazz music. Or don't. Talking to me might prove awkward.
 - 📫 How to reach me: lucadalcanto7@gmail.com or on discord (Luca D #4940)
 - 😄 Pronouns: he/him
-- ⚡ Over the years music has turned from an easy class into a small side hobby into an obsession. I'm currently learning clarinet, soprano sax, and harmonica on top of my existing tenor sax and piano. Want to listen to something I wrote? [Click Here](https://musescore.com/user/40316551/scores/10186204)
+- ⚡ Over the years music has turned from an easy class into a small side hobby into an obsession. I'm currently learning clarinet, soprano sax, and harmonica on top of my existing tenor sax and piano. Want to listen to a piece I wrote? [Click Here](https://musescore.com/user/40316551/scores/10186204)
 
 <!--
 **Luca-Skyline/Luca-Skyline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
