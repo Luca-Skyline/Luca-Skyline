@@ -2,11 +2,11 @@
 
 "Pessismists are always happy regardless of the outcome. Optimists make their dreams come true. What's better, having a positive view or negative view?" - Luca DalCanto
 
-- 🔭 I’m currently working on random personal projects for fun.
-- 🌱 I’m currently learning python mostly.
-- 👯 I’m looking to collaborate on nothing right now, but would love to help out if I can.
+- 🔭 I’m currently working on software dev, designing apps, and experimenting with machine learning.
+- 🌱 I’m currently learning about machine learning/deep learning/neural networks and computer vision.
+- 👯 I’m looking to collaborate on TSA competitions in the coming months, like VG dev and app dev.
 - 💬 Ask me about my favorite jazz music. Or don't. Talking to me might prove awkward.
-- 📫 How to reach me: lucadalcanto7@gmail.com or on discord (Luca D #4940)
+- 📫 How to reach me: lucadalcanto7@gmail.com or on discord (jazzberry.jam)
 - 😄 Pronouns: he/him
 - ⚡ Over the years music has turned from an easy class into a small side hobby into an obsession. I'm currently learning clarinet, soprano sax, and harmonica on top of my existing tenor sax and piano. Want to listen to a piece I wrote? [Click Here](https://musescore.com/user/40316551/scores/10186204)
 
