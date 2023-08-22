@@ -2,7 +2,7 @@
 
 "Pessismists are always happy regardless of the outcome. Optimists make their dreams come true. What's better, having a positive view or negative view?" - Luca DalCanto
 
-- 🔭 I’m currently working on software dev, designing apps, and experimenting with machine learning.
+- 🔭 I’m currently working on software dev, designing apps, and experimenting with machine learning. I'm also in a robotics class at Skyline High!
 - 🌱 I’m currently learning about machine learning/deep learning/neural networks and computer vision.
 - 👯 I’m looking to collaborate on TSA competitions in the coming months, like VG dev and app dev.
 - 💬 Ask me about my favorite jazz music. Or don't. Talking to me might prove awkward.
