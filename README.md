@@ -1,5 +1,4 @@
-### Hi, I'm Luca.
-### I love coding, and so does Skyline. Join the coding club!
+### Hi, I'm Luca. 👋
 
 "Pessismists are always happy regardless of the outcome. Optimists make their dreams come true. What's better, having a positive view or negative view?" - Luca DalCanto
 
