@@ -8,7 +8,7 @@
 - 💬 Ask me about my favorite jazz music. Or don't. Talking to me might prove awkward.
 - 📫 How to reach me: lucadalcanto7@gmail.com or on discord (jazzberry.jam)
 - 😄 Pronouns: he/him
-- ⚡ Over the years music has turned from an easy class into a small side hobby into an obsession. I'm currently learning clarinet, soprano sax, and harmonica on top of my existing tenor sax and piano. Want to listen to a piece I wrote? [Click Here](https://musescore.com/user/40316551/scores/10186204)
+- ⚡ Among my other hobbies, I love composing music. You can listen to a short orchestral piece I wrote [here](https://musescore.com/user/40316551/scores/11059336)!
 
 <!--
 **Luca-Skyline/Luca-Skyline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
