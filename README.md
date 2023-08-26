@@ -2,7 +2,7 @@
 
 "Pessismists are always happy regardless of the outcome. Optimists make their dreams come true. What's better, having a positive view or negative view? The answer has always eluded me." - Luca DalCanto
 
-- 🔭 I’m currently working on software dev, designing apps, and experimenting with machine learning. I'm also composing music. Plus, I'm in Kapptie's robotics class at Skyline High!
+- 🔭 I’m currently working on software dev, designing apps, and experimenting with machine learning. I'm also composing music and writing a novel. Plus, I'm in Kapptie's robotics class at Skyline High! If that's not enough I'm in something like 8 clubs and president of 3 of them 🙃.
 - 🌱 I’m currently learning about machine learning/deep learning/neural networks and computer vision.
 - 👯 I’m looking to collaborate on TSA competitions in the coming months, like VG dev and app dev.
 - 💬 Ask me about my favorite jazz music. One of the better ways to talk to me without it proving awkward.
