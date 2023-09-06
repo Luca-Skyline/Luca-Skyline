@@ -9,6 +9,7 @@
 - 💬 Ask me about my favorite jazz music. One of the better ways to talk to me without it proving awkward.
 - 📫 How to reach me: [email me](mailto:lucadalcanto7@gmail.com) or send a friend request on discord (jazzberry.jam)
 - 😄 Pronouns: he/him
+- 🤔 Personality Type: INTJ. Yes, I'm a big-time introvert. But there's still people I enjoy talking to... if someone starts a conversation...
 - ⚡ Among my other hobbies, I love composing music. You can listen to a short orchestral piece I wrote [here](https://musescore.com/user/40316551/scores/11059336)!
 
 <!--
