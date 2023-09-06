@@ -1,6 +1,6 @@
 ### Hi, I'm Luca. 👋
 
-"Pessismists are always happy regardless of the outcome. Optimists make their dreams come true. What's better, having a positive view or negative view? The answer has always eluded me." - Luca DalCanto
+If you bother to read all this, you are a rare person to be found on this Earth.
 
 - 🔭 I’m currently working on software dev, designing apps, and experimenting with machine learning. I'm also composing music and writing a novel. Plus, I'm in Kapptie's robotics class at Skyline High!
     (If that's not enough I'm doing IB and in something like 8 clubs and president of 3 of them 🫠. Yea. It's a lot.)
