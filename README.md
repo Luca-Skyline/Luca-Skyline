@@ -1,6 +1,6 @@
 ### Hi, I'm Luca. 👋
 
-Junior (class of 2025) at Skyline High School in SLC, UT
+Senior (class of 2025) at Skyline High School in SLC, UT
 
 - 💻 You should join TSA (The Technology Student Association). We have competitions ranging from programming to music production, fashion design to robotics, CAD to debate.
 
