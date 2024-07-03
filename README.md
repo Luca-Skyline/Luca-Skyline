@@ -4,7 +4,7 @@ Senior (class of 2025) at Skyline High School in SLC, UT
 
 - 💻 You should join TSA (The Technology Student Association). We have competitions ranging from programming to music production, fashion design to robotics, CAD to debate.
 
-- 🔭 I’m currently working here and there on software dev, designing apps, and experimenting a tiny bit with machine learning. 😬
+- 🔭 I’m currently working here and there on software dev, designing apps, and experimenting a tiny bit with machine learning. I also have an internship with the engineering college and the Energy and Geoscience Institute at the U of U.
 - 🌱 I’m currently learning about machine learning/deep learning/neural networks and computer vision. 👀
 - 💬 Ask me about my favorite jazz music or science fiction novels.
 - 📫 How to reach me: [email](mailto:9608429@graniteschools.org)
