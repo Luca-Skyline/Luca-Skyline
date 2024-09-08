@@ -9,7 +9,7 @@ Senior (class of 2025) at Skyline High School in SLC, UT
 - 😄 Pronouns: he/him
 - ⚡ Fun Fact: among my other hobbies, I love composing music. I'm not an expert (pretty much self taught), but you can listen to a short orchestral piece I wrote [here](https://musescore.com/user/40316551/scores/11059336)!
 
-- 💻 You should join TSA (The Technology Student Association). We have competitions ranging from programming to music production, fashion design to robotics, CAD to debate. Skyline TSA meets on Thursdays. [How to start a TSA chapter at your own high school.](https://tsaweb.org/membership/information/interested-in-starting-a-tsa-chapter)
+- 💻 You should join TSA (The Technology Student Association). We have competitions ranging from programming to music production, fashion design to robotics, CAD to debate. Skyline TSA meets on Thursdays. [How to start a TSA chapter at your own high school.](https://tsaweb.org/students/join-tsa)
 
 <!--
 **Luca-Skyline/Luca-Skyline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
