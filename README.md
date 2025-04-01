@@ -2,8 +2,8 @@
 
 Senior (class of 2025) at Skyline High School in SLC, UT
  
-- 🔭 I’m currently working here and there on software dev, physics, and college apps. Just got done an internship with the engineering college and the Energy and Geoscience Institute at the U of U.
-- 🌱 I’m currently learning about machine learning/deep learning/neural networks and computer vision.
+- 🔭 I’m currently in the final stretch on getting my IB Diploma and working on programming class projects.
+- 🌱 I’m currently learning about machine evolution and Conway's Game of Life literature.
 - 💬 Ask me about my favorite jazz music or science fiction novels.
 - 📫 How to reach me: [email](mailto:9608429@graniteschools.org)
 - 😄 Pronouns: he/him
