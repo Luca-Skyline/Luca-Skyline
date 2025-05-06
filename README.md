@@ -3,6 +3,7 @@
 Senior (class of 2025) at Skyline High School in SLC, UT
  
 - 🔭 I’m currently in the final stretch on getting my IB Diploma and working on programming class projects.
+- 🏫 Committed to Purdue College of Engineering and John Martinson Honors College class of 2029! Boiler up!
 - 🌱 I’m currently learning about machine evolution and Conway's Game of Life literature.
 - 💬 Ask me about my favorite jazz music or science fiction novels.
 - 📫 How to reach me: [email](mailto:9608429@graniteschools.org)
